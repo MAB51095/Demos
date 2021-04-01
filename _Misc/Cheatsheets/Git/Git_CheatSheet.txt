@@ -1,0 +1,9 @@
+
+git config
+git init
+git add "filename here"--> adds to staging area
+git add . -->adds all to staging area
+git commit -a -m "Comment entered here" -->commits all files even when not staged. 
+git commit -m "Commment entered here" -->commits staged files to server
+git status
+git status -s 
