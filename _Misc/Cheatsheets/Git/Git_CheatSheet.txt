@@ -7,3 +7,8 @@ git commit -a -m "Comment entered here" -->commits all files even when not stage
 git commit -m "Commment entered here" -->commits staged files to server
 git status
 git status -s 
+git log -->shows history
+git log --oneline [--reverse]
+git show "commitid | HEAD[~1]"
+git ls-tree
+git restore --staged "filename"
