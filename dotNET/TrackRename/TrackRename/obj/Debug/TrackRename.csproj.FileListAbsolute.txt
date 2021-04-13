@@ -1,0 +1,9 @@
+E:\LocalGit\Demos\dotNET\TrackRename\TrackRename\bin\Debug\TrackRename.exe.config
+E:\LocalGit\Demos\dotNET\TrackRename\TrackRename\bin\Debug\TrackRename.exe
+E:\LocalGit\Demos\dotNET\TrackRename\TrackRename\bin\Debug\TrackRename.pdb
+E:\LocalGit\Demos\dotNET\TrackRename\TrackRename\obj\Debug\TrackRename.csprojAssemblyReference.cache
+E:\LocalGit\Demos\dotNET\TrackRename\TrackRename\obj\Debug\TrackRename.csproj.CoreCompileInputs.cache
+E:\LocalGit\Demos\dotNET\TrackRename\TrackRename\obj\Debug\TrackRename.exe
+E:\LocalGit\Demos\dotNET\TrackRename\TrackRename\obj\Debug\TrackRename.pdb
+E:\LocalGit\Demos\dotNET\TrackRename\TrackRename\bin\Debug\taglib-sharp.dll
+E:\LocalGit\Demos\dotNET\TrackRename\TrackRename\obj\Debug\TrackRename.csproj.CopyComplete
