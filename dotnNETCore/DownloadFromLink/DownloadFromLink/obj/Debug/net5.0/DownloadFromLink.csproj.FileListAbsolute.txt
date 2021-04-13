@@ -1,0 +1,16 @@
+E:\LocalGit\Demos\dotnNETCore\DownloadFromLink\DownloadFromLink\bin\Debug\net5.0\DownloadFromLink.exe
+E:\LocalGit\Demos\dotnNETCore\DownloadFromLink\DownloadFromLink\bin\Debug\net5.0\DownloadFromLink.deps.json
+E:\LocalGit\Demos\dotnNETCore\DownloadFromLink\DownloadFromLink\bin\Debug\net5.0\DownloadFromLink.runtimeconfig.json
+E:\LocalGit\Demos\dotnNETCore\DownloadFromLink\DownloadFromLink\bin\Debug\net5.0\DownloadFromLink.runtimeconfig.dev.json
+E:\LocalGit\Demos\dotnNETCore\DownloadFromLink\DownloadFromLink\bin\Debug\net5.0\DownloadFromLink.dll
+E:\LocalGit\Demos\dotnNETCore\DownloadFromLink\DownloadFromLink\bin\Debug\net5.0\ref\DownloadFromLink.dll
+E:\LocalGit\Demos\dotnNETCore\DownloadFromLink\DownloadFromLink\bin\Debug\net5.0\DownloadFromLink.pdb
+E:\LocalGit\Demos\dotnNETCore\DownloadFromLink\DownloadFromLink\obj\Debug\net5.0\DownloadFromLink.csprojAssemblyReference.cache
+E:\LocalGit\Demos\dotnNETCore\DownloadFromLink\DownloadFromLink\obj\Debug\net5.0\DownloadFromLink.GeneratedMSBuildEditorConfig.editorconfig
+E:\LocalGit\Demos\dotnNETCore\DownloadFromLink\DownloadFromLink\obj\Debug\net5.0\DownloadFromLink.AssemblyInfoInputs.cache
+E:\LocalGit\Demos\dotnNETCore\DownloadFromLink\DownloadFromLink\obj\Debug\net5.0\DownloadFromLink.AssemblyInfo.cs
+E:\LocalGit\Demos\dotnNETCore\DownloadFromLink\DownloadFromLink\obj\Debug\net5.0\DownloadFromLink.csproj.CoreCompileInputs.cache
+E:\LocalGit\Demos\dotnNETCore\DownloadFromLink\DownloadFromLink\obj\Debug\net5.0\DownloadFromLink.dll
+E:\LocalGit\Demos\dotnNETCore\DownloadFromLink\DownloadFromLink\obj\Debug\net5.0\ref\DownloadFromLink.dll
+E:\LocalGit\Demos\dotnNETCore\DownloadFromLink\DownloadFromLink\obj\Debug\net5.0\DownloadFromLink.pdb
+E:\LocalGit\Demos\dotnNETCore\DownloadFromLink\DownloadFromLink\obj\Debug\net5.0\DownloadFromLink.genruntimeconfig.cache
