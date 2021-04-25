@@ -1,0 +1,7 @@
+E:\LocalGit\Demos\dotNET\DataStructures & Alogorithms\BinaryTree\BinaryTree\bin\Debug\BinaryTree.exe.config
+E:\LocalGit\Demos\dotNET\DataStructures & Alogorithms\BinaryTree\BinaryTree\bin\Debug\BinaryTree.exe
+E:\LocalGit\Demos\dotNET\DataStructures & Alogorithms\BinaryTree\BinaryTree\bin\Debug\BinaryTree.pdb
+E:\LocalGit\Demos\dotNET\DataStructures & Alogorithms\BinaryTree\BinaryTree\obj\Debug\BinaryTree.csprojAssemblyReference.cache
+E:\LocalGit\Demos\dotNET\DataStructures & Alogorithms\BinaryTree\BinaryTree\obj\Debug\BinaryTree.csproj.CoreCompileInputs.cache
+E:\LocalGit\Demos\dotNET\DataStructures & Alogorithms\BinaryTree\BinaryTree\obj\Debug\BinaryTree.exe
+E:\LocalGit\Demos\dotNET\DataStructures & Alogorithms\BinaryTree\BinaryTree\obj\Debug\BinaryTree.pdb
